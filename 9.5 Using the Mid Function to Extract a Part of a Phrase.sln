@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "9.5 Using the Mid Function to Extract a Part of a Phrase", "9.5 Using the Mid Function to Extract a Part of a Phrase.vbproj", "{91410DFD-0655-4B69-9E37-E95A10CDA1BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91410DFD-0655-4B69-9E37-E95A10CDA1BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91410DFD-0655-4B69-9E37-E95A10CDA1BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91410DFD-0655-4B69-9E37-E95A10CDA1BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91410DFD-0655-4B69-9E37-E95A10CDA1BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2A5CEC6-0CB1-4F11-89BA-41F46CCCE8C2}
+	EndGlobalSection
+EndGlobal
